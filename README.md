@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Projects...
 - 📫 How to reach me ...
 <b>this is a bold text</b>
-<h1>This is my test headinh</h1>
+<i>This is my test heading</i>
 <!---
 minulhasan02/minulhasan02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
