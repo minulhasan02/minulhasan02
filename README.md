@@ -15,6 +15,7 @@ Hello, My Dear Friend <img src="https://user-images.githubusercontent.com/130315
 <a href="https://twitter.com/minulhasan02"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
 <a href="https://wa.link/zdmnha"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
 <a href="https://t.me/minulhasan02"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
+<a href="mailto:minulhasan202@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 <hr>
 <h3>Things I Play With: </h3>
 <a href=""><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
