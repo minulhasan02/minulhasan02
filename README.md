@@ -7,7 +7,7 @@ Hello, My Dear Friend <img src="https://user-images.githubusercontent.com/130315
 💻 Most used coding language JavaScript (love to explore js)<br>
 🤔   I’m looking for people who can help me with project ideas and executions.<br>
 🏝    Love to drink coffe and travel around the world<br>
-⚡   Crazy Fact: I wish if I could be the <code>no 1 JS developer</code> and If JS would used in all aspects of our lives<br>
+⚡   Crazy Fact: I wish if I could be the <code>no 1 JS developer</code> and If JS would used in all aspects of our lifes<br>
 
 <h3>Connect With Me: </h3>
 <a href="https://www.facebook.com/minulhasan02"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
